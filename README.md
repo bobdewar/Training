@@ -1,2 +1,0 @@
-# Training
-Created from tutorial
